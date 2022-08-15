@@ -1,0 +1,7 @@
+a, a.active{
+    text-decoration: none!important;
+    color: black!important;;
+}
+.logo, a.logo.active{
+    color: white !important;
+}
